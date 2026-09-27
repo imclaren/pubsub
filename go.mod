@@ -1,4 +1,4 @@
-module github.com/calmdocs/pubsub
+module github.com/imclaren/pubsub
 
 go 1.20
 

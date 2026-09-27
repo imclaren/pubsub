@@ -1,6 +1,6 @@
 # pubsub
 
-[![godoc](https://godoc.org/github.com/calmdocs/pubsub?status.svg)](https://godoc.org/github.com/calmdocs/pubsub)
+[![godoc](https://godoc.org/github.com/imclaren/pubsub?status.svg)](https://godoc.org/github.com/imclaren/pubsub)
 
 golang websocket pubsub server and client
 
